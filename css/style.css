@@ -1,0 +1,18 @@
+html{
+    max-width: 1440px;
+    background-color: hsl(233, 47%, 7%);
+}
+body{
+    font-size: 15px;
+    font-family: 'Inter', 'Lexend Deca';
+}
+
+.card{
+    background-color: hsl(244, 38%, 16%);
+
+}
+
+.card .content{
+    display: flex;
+    align-items: center;
+}
