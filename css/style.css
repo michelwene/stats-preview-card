@@ -1,6 +1,6 @@
 html{
     max-width: 1440px;
-    background-color: hsl(233, 47%, 7%);
+    height: 720px;
 }
 body{
     font-size: 15px;
@@ -9,10 +9,15 @@ body{
 
 .card{
     background-color: hsl(244, 38%, 16%);
-
+    width: 1200px;
+    margin: auto;
+    border: auto;
 }
 
 .card .content{
     display: flex;
+    justify-content: flex-end;
     align-items: center;
+    flex-direction: row-reverse;
+    text-align: center;
 }
