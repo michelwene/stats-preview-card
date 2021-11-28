@@ -120,7 +120,7 @@ footer a:hover{
 /*Novamente um efeito de mudança de cor, utilizando o hover*/
 
 
-/*O que eu percebi também que a parte da responsividade mobile, ficou bem melhor que do projeto anterior "Order-Summary-component", a parte da responsividade respondeu melhor pois neste projeto, o HTML ficou bem melhor estruturado.
+/*O que eu percebi também que a parte da responsividade mobile, ficou bem melhor que do projeto anterior "Order-Summary-component", a parte da responsividade respondeu melhor pois neste projeto, o HTML ficou bem melhor estruturado.*/
 ```
 
 ### Continuação dos desenvolvimentos
