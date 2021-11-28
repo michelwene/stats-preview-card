@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 <img src="images/Screenshot_1.png"/>
 
 - Mobile
-![Mobile](Frontend_Mentor_Stats_preview_card_component.gif)
+![Mobile](images/Frontend_Mentor_Stats_preview_card_component.gif)
 
 ### Links
 
