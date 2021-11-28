@@ -38,7 +38,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - Solution URL: [https://github.com/michelwene/stats-preview-card](https://github.com/michelwene/stats-preview-card)
-- Live Site URL: [https://michelwene.github.io/Order-Summary/](https://michelwene.github.io/Order-Summary/)
+- Live Site URL: [https://michelwene.github.io/stats-preview-card/](https://michelwene.github.io/stats-preview-card/)
 
 ## Meu processo
 
@@ -85,7 +85,7 @@ Os usuários devem ser capazes de:
         </section>
       </section>
     </main>
-    <!--Me orgulho deste HTML pois entendi o real motivo da section e o da div, consegui compreender suas diferenças, e apliquei da melhor forma que consegui no HTML, desta forma consegui estruturar meu HTML, deixando tudo mais simples para o CSS.-->
+    <!--Me orgulho deste HTML pois entendi o real motivo da section e o da div, consegui compreender suas diferenças e apliquei da melhor forma que consegui no HTML, desta forma consegui estruturar meu HTML, deixando tudo mais simples para o CSS.-->
 ```
 ```css
 .Orgulho-deste-css {
@@ -120,7 +120,7 @@ footer a:hover{
 /*Novamente um efeito de mudança de cor, utilizando o hover*/
 
 
-/*O que eu percebi também que a parte da responsividade mobile, ficou bem melhor que do projeto anterior "Order-Summary-component", a parte da responsividade respondeu melhor pois neste projeto, o HTML ficou bem melhor estruturado.*/
+/*O que eu percebi também que a parte da responsividade mobile ficou bem melhor que do projeto anterior "Order-Summary-component", a parte da responsividade respondeu melhor, pois neste projeto o HTML ficou de maneira mais estruturada.*/
 ```
 
 ### Continuação dos desenvolvimentos
