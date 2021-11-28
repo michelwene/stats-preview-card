@@ -29,11 +29,15 @@ Os usuários devem ser capazes de:
 - Observar um design responsivo.
 ### Captura de tela
 
+<p align="center">
 - Desktop
 <img src="images/Screenshot_1.png"/>
+ </p>
 
+<p align="center">
 - Mobile
-![Mobile](https://ezgif.com/gif-to-mp4/ezgif-1-bcb100838007.gif)
+<img src="images/Frontend_Mentor_ Stats_preview_card_component.gif"/>
+  </p>
 
 ### Links
 
