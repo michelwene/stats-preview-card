@@ -1,10 +1,4 @@
-html{
-    max-width: 1440px;
-    height: 720px;
-}
 body{
-    font-size: 15px;
-    font-family: 'Inter', 'Lexend Deca';
     padding-top: 15%;
     background-color: hsl(233, 47%, 7%);
 }
@@ -14,6 +8,7 @@ body{
     width: 1200px;
     margin: auto;
     border: auto;
+    border-radius: 10px;
 }
 
 .container{
@@ -24,11 +19,30 @@ body{
 }
 
 
+
+.image{
+    background-color: hsl(277, 64%, 61%);
+    border-radius: 0 10px 10px 0;
+}
+
 .text {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-end;
+}
+
+.insight{
+    color:hsl(277, 64%, 61%);
+}
+
+.title{
+    color: hsl(0, 0%, 100%);
+    font-size: 45px;
+    text-align: left;
+    padding-left: 100px;
+    font-family: 'Inter', 'sans serif';
+    font-weight: bold;
 }
 
 .description{
@@ -38,30 +52,88 @@ body{
     padding-left: 100px;
     text-align: left;
     color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Inter';
+    line-height: 1.5;
 }
 
-.insight{
-    color:hsl(277, 64%, 61%);
-}
-
-.title{
-    color: hsla(0, 0%, 100%, 0.75);
-    font-size: 40px;
-    text-align: left;
-    padding-left: 100px;
-}
-
-.list{
+.info{
     display: flex;
-    padding-left: 100px;
+    justify-content: space-around;
     padding-top: 100px;
     text-align: left;
+    font-family: 'Lexend Deca';
+}
+.info:hover{
+    cursor: default;
 }
 
-main li{
-    padding-right: 20px;
+.info div:hover{
+    box-shadow: 20px 20px 10px black;
+    border-radius: 70px;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 .value{
     color: hsl(0, 0%, 100%);
+    font-size: 30px;
+}
+
+.value-description{
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+footer a{
+    color: aqua;
+}
+footer a:hover{
+    color: red;
+}
+
+
+@media(max-width: 600px) {
+
+.card{
+    width: 100%;
+}
+
+.container{
+    flex-direction: column;
+}
+.color-image{
+    display: none;
+}
+.image{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.title{
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 0;
+}
+.description{
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info div{
+    padding-bottom: 30px;
+}
 }
