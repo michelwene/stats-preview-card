@@ -5,6 +5,8 @@ html{
 body{
     font-size: 15px;
     font-family: 'Inter', 'Lexend Deca';
+    padding-top: 15%;
+    background-color: hsl(233, 47%, 7%);
 }
 
 .card{
@@ -14,10 +16,52 @@ body{
     border: auto;
 }
 
-.card .content{
+.container{
     display: flex;
-    justify-content: flex-end;
     align-items: center;
     flex-direction: row-reverse;
     text-align: center;
+}
+
+
+.text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+
+.description{
+    padding-top: 50px;
+    font-size: 16px;
+    padding-right: 150px;
+    padding-left: 100px;
+    text-align: left;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.insight{
+    color:hsl(277, 64%, 61%);
+}
+
+.title{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+}
+
+.list{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 100px;
+    text-align: left;
+}
+
+main li{
+    padding-right: 20px;
+}
+
+.value{
+    color: hsl(0, 0%, 100%);
 }
