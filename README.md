@@ -29,15 +29,11 @@ Os usuários devem ser capazes de:
 - Observar um design responsivo.
 ### Captura de tela
 
-<p align="center">
 - Desktop
 <img src="images/Screenshot_1.png"/>
- </p>
 
-<p align="center">
 - Mobile
 <img src="images/Frontend_Mentor_ Stats_preview_card_component.gif"/>
-  </p>
 
 ### Links
 
