@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 <img src="images/Screenshot_1.png"/>
 
 - Mobile
-![Mobile](images/Frontend_Mentor_Stats_preview_card_component.gif)
+![Mobile](https://ezgif.com/gif-to-mp4/ezgif-1-bcb100838007.gif)
 
 ### Links
 
